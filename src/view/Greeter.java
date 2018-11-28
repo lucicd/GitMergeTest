@@ -17,4 +17,8 @@ public class Greeter {
     public static void sayGoodbye() {
         System.out.println("Goodbye world!");
     }
+    
+    public static void sayName() {
+        System.out.println("Joe");
+    }
 }
