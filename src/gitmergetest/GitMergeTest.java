@@ -20,5 +20,6 @@ public class GitMergeTest {
         Greeter.sayHello();
         Greeter.sayGoodbye();
         Greeter.sayName();
+        Greeter.sayFavoriteFood();
     }
 }

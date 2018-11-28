@@ -19,6 +19,10 @@ public class Greeter {
     }
     
     public static void sayName() {
-        System.out.println("Joe");
+        System.out.println("My name is Joe!");
+    }
+    
+    public static void sayFavoriteFood() {
+        System.out.println("I like steaks!");
     }
 }
